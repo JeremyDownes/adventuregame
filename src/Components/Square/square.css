@@ -1,0 +1,16 @@
+.square {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  box-sizing: border-box;
+	border: 1px solid black;
+	border-radius: 0px;
+	overflow: visible;
+	padding: 0;
+	margin: 0;
+}
+
+.coin {	top: 50%;
+	width: 75%;
+	height: 75%
+}

@@ -1,0 +1,11 @@
+.dragon {
+	position: relative;
+	top:50%;
+}
+
+#game {
+	width: 100%;
+	background-color: blue;
+	background-image: url('../../resources/images/game_map_1.jpg');
+	background-size: cover;
+}

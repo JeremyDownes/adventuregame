@@ -1,0 +1,5 @@
+.board {
+	margin: auto;
+	display: grid;
+  background-image: url('../../resources/images/game_map_1.jpg');
+}
